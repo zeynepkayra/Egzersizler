@@ -23,4 +23,4 @@
 
 import os
 print(os.getcwd())
-print("Merhaba")
+print("Hello")
